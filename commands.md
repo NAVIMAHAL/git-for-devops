@@ -32,3 +32,5 @@ Create a new branch and switch to it.
 
 ## 11. `git checkout <branchname>`
 Switch to the specified branch.
+
+
